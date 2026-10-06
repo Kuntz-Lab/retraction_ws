@@ -1,0 +1,17 @@
+repositories:
+  DiffDef-core:
+    type: git
+    url: https://github.com/Kuntz-Lab/DiffDef-core.git
+    version: master
+  PushVIB3S_start_point_conditioned:
+    type: git
+    url: https://github.com/BrittonJordan/PushVIB3S_start_point_conditioned.git
+    version: add-ptv3-encoder
+  PushVIBES:
+    type: git
+    url: https://github.com/Kuntz-Lab/PushVIBES.git
+    version: start-pt-conditioned-btj
+  perception_tools_pkg:
+    type: git
+    url: https://github.com/Kuntz-Lab/perception_tools_pkg.git
+    version: main
