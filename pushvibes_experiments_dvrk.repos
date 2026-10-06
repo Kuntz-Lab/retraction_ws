@@ -2,7 +2,7 @@ repositories:
   DiffDef-core:
     type: git
     url: https://github.com/Kuntz-Lab/DiffDef-core.git
-    version: master
+    version: ros-diffdef-goal-gen
   PushVIB3S_start_point_conditioned:
     type: git
     url: https://github.com/Kuntz-Lab/PushVIB3S_start_point_conditioned.git
@@ -11,6 +11,10 @@ repositories:
     type: git
     url: https://github.com/Kuntz-Lab/PushVIBES.git
     version: start-pt-conditioned-btj
+  diffdef_pkg:
+    type: git
+    url: https://github.com/Kuntz-Lab/diffdef_pkg.git
+    version: main
   perception_tools_pkg:
     type: git
     url: https://github.com/Kuntz-Lab/perception_tools_pkg.git
