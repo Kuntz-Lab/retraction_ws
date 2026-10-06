@@ -5,7 +5,7 @@ repositories:
     version: master
   PushVIB3S_start_point_conditioned:
     type: git
-    url: https://github.com/BrittonJordan/PushVIB3S_start_point_conditioned.git
+    url: https://github.com/Kuntz-Lab/PushVIB3S_start_point_conditioned.git
     version: add-ptv3-encoder
   PushVIBES:
     type: git
