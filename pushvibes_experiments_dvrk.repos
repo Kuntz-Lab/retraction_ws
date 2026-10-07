@@ -19,3 +19,11 @@ repositories:
     type: git
     url: https://github.com/Kuntz-Lab/perception_tools_pkg.git
     version: main
+  retraction_interface:
+    type: git
+    url: https://github.com/Kuntz-Lab/retraction_interface.git
+    version: main
+  retraction_pkg:
+    type: git
+    url: https://github.com/Kuntz-Lab/retraction_pkg.git
+    version: main
